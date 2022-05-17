@@ -1,6 +1,4 @@
-========
- README
-========
+# README
 
 This repository holds source code for several components of Miro, the
 open and free Internet TV platform.  For more information about Miro,
@@ -16,11 +14,10 @@ go to:
 * https://develop.participatoryculture.org/
 
 
-What's here
-===========
+## What's here
 
-Miro
-----
+
+### Miro
 
 * ``tv``
 
