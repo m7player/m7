@@ -1,6 +1,5 @@
-========
- README
-========
+
+# README
 
 Requirements
 ============
@@ -8,7 +7,7 @@ Requirements
 You must build the documentation on a valid gtk-x11 platform.  This
 means that platform-specific documentation is for gtk-x11.
 
-You must be able to build Miro on gtk-x11.  This means you'll need to
+You must be able to build m7 on gtk-x11.  This means you'll need to
 have all the requirements to run ``run.sh`` in ``tv/platform/gtk-x11/``.
 
 You must have the Sphinx documentation tools installed.  On Ubuntu,
