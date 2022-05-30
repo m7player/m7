@@ -1,12 +1,1 @@
-# Miro - an RSS based video player application
-# Copyright (C) 2005, 2006, 2007, 2008, 2009, 2010, 2011
-# Participatory Culture Foundation
-
-Hi,
-
-My name is MIRO_ROOT.
-
-I live in the root miro directory to help us locate it when run from
-setup.py, especially on Linux.  My contents are arbitrary, all I need
-to do is exist.
-
+Don't rename this or stuff will break!!
